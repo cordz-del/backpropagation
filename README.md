@@ -20,3 +20,7 @@ python backpropagation.py
 ```
 
 The script will output the cost at each iteration and the final predictions of the neural network.
+
+## Certification Relevance
+
+This repository is relevant to the "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization" certification. It demonstrates the implementation of backpropagation in neural networks, which is a fundamental concept in deep learning. The script provides an understanding of how to optimize neural networks by tuning hyperparameters and applying regularization techniques.
